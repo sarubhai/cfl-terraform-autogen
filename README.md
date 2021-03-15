@@ -10,9 +10,20 @@ Auto Generation of Terraform Configuration &amp; State files for existing Cloudf
 - Simple shell script based Utility using terraform cli & curl
 
 ### Reference
-- `https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs`
-- `https://api.cloudflare.com/`
-- `https://www.terraform.io/docs/cloud/api/index.html`
+Cloudflare Provider
+- [https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs](https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs)
+
+Cloudflare API
+- [https://api.cloudflare.com/](https://api.cloudflare.com/)
+
+Terraform Cloud API
+- [https://www.terraform.io/docs/cloud/api/index.html](https://www.terraform.io/docs/cloud/api/index.html)
+
+Cloudflare Global API Key	
+- [https://dash.cloudflare.com/profile/api-tokens](https://dash.cloudflare.com/profile/api-tokens)
+
+Terraform User Api Token
+- [https://app.terraform.io/app/settings/tokens](https://app.terraform.io/app/settings/tokens)
 
 
 ### Prerequisite
