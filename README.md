@@ -59,3 +59,17 @@ export TF_TOKEN="abOAB1XYZaZ7aZ.abcdef1.11xXmno7ZFZj8Sorr4zOeWweitYCQeQXr7FFXabZ
 ```
 
 Check the output of the autogen script in info.txt file
+
+### Cloudflare Resources
+The following resources are being handled currently:
+
+- cloudflare_zone
+- cloudflare_zone_settings_override
+- cloudflare_record
+- cloudflare_filter
+- cloudflare_firewall_rule
+- cloudflare_waf_group
+- cloudflare_worker_script
+
+
+
